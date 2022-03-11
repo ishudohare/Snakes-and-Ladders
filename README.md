@@ -14,7 +14,7 @@ You can enter a custom number of Ladders which are randomly allocated within the
 
 You can enter a custom number of players, the names of which you'll have to enter, for checking the game progress.
 
-The program comes to halt when the last player left reaches the end point.
+The program comes to a halt when the last player left reaches the end point.
 
 This is  designed mainly on OOPS concept, can be taken as a Machine Coding Round practice for Big-Tech Companies.
 
